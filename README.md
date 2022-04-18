@@ -8,7 +8,7 @@
 
 
 ## General info
-Full Stack Web Application with serverless backend.
+Local Server created with GO 
 	
 ## Technologies
 
